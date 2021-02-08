@@ -1,0 +1,3 @@
+birds1 = "cockatoo"
+birds2 = "sparrow"
+birds3 = "eagle"
