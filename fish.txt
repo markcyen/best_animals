@@ -1,0 +1,3 @@
+fish1 = "mako"
+fish2 = "hammer head"
+fish3 = "goldfish"
