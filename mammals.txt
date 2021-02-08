@@ -1,0 +1,3 @@
+mammal1 = "whale"
+mammal2 = "kangaroo"
+mammal3 = "wallaby"
